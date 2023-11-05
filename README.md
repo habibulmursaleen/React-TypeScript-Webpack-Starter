@@ -1,3 +1,5 @@
+# React-TypeScript-Webpack-Starter
+
 ## Install dependencies
 
 yarn
@@ -17,4 +19,3 @@ yarn lint
 ## format
 
 yarn format
-# React-TypeScript-Webpack-Starter
